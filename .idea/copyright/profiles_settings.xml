@@ -1,0 +1,8 @@
+<component name="CopyrightManager">
+  <settings default="MobienDigitalCopyright">
+    <module2copyright>
+      <element module="All" copyright="MobienDigitalCopyright" />
+      <element module="Non-Project Files" copyright="MobienDigitalCopyright" />
+    </module2copyright>
+  </settings>
+</component>

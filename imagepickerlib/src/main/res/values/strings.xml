@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImagePickerLib</string>
+    <string name="str_select_image">Select Image</string>
+</resources>
